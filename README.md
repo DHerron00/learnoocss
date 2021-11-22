@@ -2,7 +2,7 @@ Your goal for this project is to fix the remaining page elements to follow the b
 
 WATCH THIS VIDEO FIRST: https://drive.google.com/file/d/1BEaFQwHEBfQzNENsdchvtA9fmPkPY1ao/view?usp=sharing
 
-Then, follow the instructions belo!
+Then, follow the instructions below!
 
 	Step 1 - Section panels
 		o Create a structure class and a skin class based on the existing styles for the three sections.
