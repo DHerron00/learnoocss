@@ -1,5 +1,9 @@
 Your goal for this project is to fix the remaining page elements to follow the best OOCSS practices, as well as creating a new section.
 
+WATCH THIS VIDEO FIRST: https://drive.google.com/file/d/1BEaFQwHEBfQzNENsdchvtA9fmPkPY1ao/view?usp=sharing
+
+Then, follow the instructions belo!
+
 	Step 1 - Section panels
 		o Create a structure class and a skin class based on the existing styles for the three sections.
 			o Hint: it may be necessary to separate the "border" property into its respective parts
